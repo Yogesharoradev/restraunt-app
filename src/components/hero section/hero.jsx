@@ -1,8 +1,8 @@
 import React from 'react'
-import bgimage from '../../assets/Logo/vector3.png'
-import img1 from '../../assets/Logo/biryani.png'
-import img2 from '../../assets/Logo/biryani2.png'
-import img3 from '../../assets/Logo/biryani3.png'
+import bgimage from '../../../public/Logo/vector3.png'
+import img1 from '../../../public/Logo/biryani.png'
+import img2 from '../../../public/Logo/biryani2.png'
+import img3 from '../../../public/Logo/biryani3.png'
 import { useState } from 'react'
 
 const Hero = () => {

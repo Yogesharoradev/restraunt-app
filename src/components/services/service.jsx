@@ -1,5 +1,5 @@
 import React from 'react'
-import img1 from '../../assets/Logo/biryani2.png'
+import img1 from '../../../public/Logo/biryani2.png'
 import {
     FaFacebook,
     FaInstagram,
@@ -63,7 +63,7 @@ const Service = () => {
                 <div className='grid grid-cols-2'>
                     
                     <div className='flex items-center justify-center mt-8 ml-4'>
-                        <img alt='pic' src='\src\assets\Logo\biryani3.png' className='mx-auto max-w-[400px]'/>
+                        <img alt='pic' src='\public\Logo\biryani3.png' className='mx-auto max-w-[400px]'/>
                     </div>
 
 

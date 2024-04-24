@@ -9,17 +9,17 @@ const Playstore = () => {
             
             <div className='flex'> 
             <a href='#'> 
-            <img alt='apple' src='\src\assets\Logo\app_store.png' className='max-w-[150px]'/>
+            <img alt='apple' src='\public\Logo\app_store.png' className='max-w-[150px]'/>
             </a>
             <a href='#'>
-            <img alt='android' src='\src\assets\Logo\play_store.png' className='max-w-[150px]'/>
+            <img alt='android' src='\public\Logo\play_store.png' className='max-w-[150px]'/>
             </a>
             </div>
             
         </div>
 
         <div>
-            <img alt='bullet' src='\src\assets\Logo\mobile_bike.gif' className='p-8 max-w-[350px] mx-auto'/>
+            <img alt='bullet' src='\public\Logo\mobile_bike.gif' className='p-8 max-w-[350px] mx-auto'/>
         </div>
       </div>
     </div>

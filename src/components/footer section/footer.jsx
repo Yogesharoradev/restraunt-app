@@ -7,7 +7,7 @@ const Footer = () => {
             <div className='flex flex-col items-center justify-center'>
                 <div className=''>
                 <a href='#' className='flex items-center gap-2 text-2xl font-semibold'>
-                <img src="\src\assets\Logo\food-logo.png" alt="Foodie zone"
+                <img src="\public\Logo\food-logo.png" alt="Foodie zone"
                  className='w-16' />
                 Foodie             
              </a>
