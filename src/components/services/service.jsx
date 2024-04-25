@@ -63,9 +63,8 @@ const Service = () => {
                 <div className='grid grid-cols-2'>
                     
                     <div className='flex items-center justify-center mt-8 ml-4'>
-                        <img alt='pic' src='\public\Logo\biryani3.png' className='mx-auto max-w-[400px]'/>
+                        <img alt='pic' src='\Logo\biryani3.png' className='mx-auto max-w-[400px]'/>
                     </div>
-
 
                     <div className='flex justify-center flex-col gap-6'>
                         <h1 className='text-white font-semibold text-start text-5xl mt-9'>Lorem Ipsum Dorem</h1>

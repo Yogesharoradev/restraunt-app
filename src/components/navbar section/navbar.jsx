@@ -10,7 +10,7 @@ const Navbar = () => {
       <div className="flex justify-between items-center p-3">
         <div className='ml-9'>
             <a href='#' className='flex items-center gap-2 text-2xl font-semibold'>
-                <img src="\public\Logo\food-logo.png" alt="Foodie zone"
+                <img src="\Logo\food-logo.png" alt="Foodie zone"
                  className='w-16' />
                 Foodie             
              </a>
